@@ -11,4 +11,4 @@
 
 ### 安裝方法
 1. 安裝 [Tampermonkey](https://www.tampermonkey.net/) 瀏覽器擴展
-2. 點擊 [這裡](https://github.com/你的用戶名/你的存儲庫名/raw/main/github-deepwiki-toggle.user.js) 安裝腳本
+2. 點擊 [這裡](https://github.com/TSAI-CHEN-YU/tampermonkey-scripts/raw/main/github-deepwiki-toggle.user.js) 安裝腳本
